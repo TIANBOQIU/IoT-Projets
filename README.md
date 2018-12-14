@@ -10,7 +10,8 @@
 [architecture]:/SmartBentoBox/images/architecture.png "Architecture"
 [prototype]:/SmartBentoBox/images/prototype.png "Prototype"
 [app1]:/SmartBentoBox/images/abstract2.png "App Demo"
-![alt text][architecture]{:height="50%" width="50%"}
+<img src="/SmartBentoBox/images/architecture.png" align="left" height="48" width="48" >
+![alt text][architecture]
 ![alt text][prototype]
 ![alt text][app1]
 ## The Bento Box
