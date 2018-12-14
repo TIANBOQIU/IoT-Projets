@@ -7,13 +7,12 @@
 5. Utilized Cloud Vision and several APIs to get the classification results and nutrient information.
 
 ## Architecture and Prototype
-<img src="/SmartBentoBox/images/architecture.png" align="center" width="100%" alt = "Architecture">
-<center>Architecture</center>
-<img src="/SmartBentoBox/images/prototype.png" align="center" width="50%" alt = "Prototype">
-<center>Prototype</center>
-<img src="/SmartBentoBox/images/abstract2.png" align="center" width="50%" alt = "App Demo">
-<center>App Demo</center>
-
+[architecture]:/SmartBentoBox/images/architecture.png "Architecture"
+[prototype]:/SmartBentoBox/images/prototype.png "Prototype"
+[app1]:/SmartBentoBox/images/abstract2.png "App Demo"
+![alt text][architecture]
+![alt text][prototype]
+![alt text][app1]
 ## The Bento Box
 [bento]: /SmartBentoBox/images/thebento.jpg "Structure"
 [hx711]: /SmartBentoBox/images/hx711.jpg "HX711 amplifiers"
@@ -21,12 +20,6 @@
 ![alt text][bento]
 ![alt text][hx711]
 ![alt text][loadcells]
-<img src="/SmartBentoBox/images/thebento.jpg" align="center" width="40%" alt = "Structure">
-<center>Structure</center>
-<img src="/SmartBentoBox/images/hx711.jpg" align="center" width="40%" alt = "HX711">
-<center>HX711 amplifiers</center>
-<img src="/SmartBentoBox/images/loadcells.jpg" align="center" width="40%" alt = "Load cells">
-<center>load celss</center>
 ## The Android Application
 [app2]: /SmartBentoBox/images/app2.jpg
 [app3]: /SmartBentoBox/images/app3.jpg
