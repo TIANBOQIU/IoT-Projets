@@ -8,24 +8,24 @@
 
 ## Architecture and Prototype
 [architecture]:/SmartBentoBox/images/architecture.png "Architecture"
-[prototype]:https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/prototype.png "Prototype"
-[app1]:https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/abstract2.png "App Demo"
+[prototype]:/SmartBentoBox/images/prototype.png "Prototype"
+[app1]:/SmartBentoBox/images/abstract2.png "App Demo"
 ![alt text][architecture]
 ![alt text][prototype]
 ![alt text][app1]
 ## The Bento Box
-[bento]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/thebento.jpg "Structure"
-[hx711]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/hx711.jpg "HX711 amplifiers"
-[loadcells]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/loadcells.jpg "load cells"
+[bento]: /SmartBentoBox/images/thebento.jpg "Structure"
+[hx711]: /SmartBentoBox/images/hx711.jpg "HX711 amplifiers"
+[loadcells]: /SmartBentoBox/images/loadcells.jpg "load cells"
 ![alt text][bento]
 ![alt text][hx711]
 ![alt text][loadcells]
 ## The Android Application
-[app2]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/app2.jpg
-[app3]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/app3.jpg
-[app4]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/app4.jpg
-[app5]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/app5.jpg
-[app6]: https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/app6.jpg
+[app2]: /SmartBentoBox/images/app2.jpg
+[app3]: /SmartBentoBox/images/app3.jpg
+[app4]: /SmartBentoBox/images/app4.jpg
+[app5]: /SmartBentoBox/images/app5.jpg
+[app6]: /SmartBentoBox/images/app6.jpg
 ![alt text][app2]
 ![alt text][app3]
 ![alt text][app4]
