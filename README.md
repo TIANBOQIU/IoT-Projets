@@ -7,13 +7,10 @@
 5. Utilized Cloud Vision and several APIs to get the classification results and nutrient information.
 
 ## Architecture and Prototype
-[architecture]:/SmartBentoBox/images/architecture.png "Architecture"
-[prototype]:/SmartBentoBox/images/prototype.png "Prototype"
-[app1]:/SmartBentoBox/images/abstract2.png "App Demo"
-<img src="/SmartBentoBox/images/architecture.png" align="left" width="50%" >
-![alt text][architecture]
-![alt text][prototype]
-![alt text][app1]
+<img src="/SmartBentoBox/images/architecture.png" align="center" width="80%" alt = "Architecture">
+<img src="/SmartBentoBox/images/prototype.png" align="center" width="70%" alt = "Prototype">
+<img src="/SmartBentoBox/images/abstract2.png" align="center" width="50%" alt = "App Demo">
+
 ## The Bento Box
 [bento]: /SmartBentoBox/images/thebento.jpg "Structure"
 [hx711]: /SmartBentoBox/images/hx711.jpg "HX711 amplifiers"
