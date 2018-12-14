@@ -7,7 +7,7 @@
 5. Utilized Cloud Vision and several APIs to get the classification results and nutrient information.
 
 ## Architecture and Prototype
-[architecture]:https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/architecture.png "Architecture"
+[architecture]:/SmartBentoBox/images/architecture.png "Architecture"
 [prototype]:https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/prototype.png "Prototype"
 [app1]:https://github.com/TIANBOQIU/IoT-Projets/tree/master/SmartBentoBox/images/abstract2.png "App Demo"
 ![alt text][architecture]
