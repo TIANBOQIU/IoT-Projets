@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartBento!_beta</string>
+    
+    <string-array name="food_categories">
+        <item>chicken</item>
+        <item>beef</item>
+        <item>rice</item>
+        <item>salad</item>
+        <item>pizza</item>
+        <item>pasta</item>
+    </string-array>
+</resources>
